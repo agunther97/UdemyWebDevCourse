@@ -1,3 +1,3 @@
-# UdemyWebDevCourse
-Assignments from Udemy Web Dev Bootcamp course
+# Udemy The Web Developer Bootcamp
+Assignments from Udemy course "The Web Developer Bootcamp"
 https://www.udemy.com/the-web-developer-bootcamp/
