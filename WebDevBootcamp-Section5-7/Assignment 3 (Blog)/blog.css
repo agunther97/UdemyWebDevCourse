@@ -1,0 +1,33 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    border: 20px solid #bdc3c7;
+    padding: 2%;
+    height: 100%;
+    width: 69%;
+    margin: auto;
+    padding-bottom: 14.2%;
+}
+
+h2 {
+    color: #2c3e50
+}
+
+.entryHeading {
+    border-left: 6px  solid #bdc3c7;
+    padding-left: 1%;
+}
+
+.date {
+    letter-spacing: 3px;
+    color: #3498db;
+    text-transform: uppercase;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(20, 60, 86, 0), rgba(20, 60, 86, 0.75), rgba(20, 60, 86, 0));
+}
